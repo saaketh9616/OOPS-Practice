@@ -1,3 +1,5 @@
+// My template for Competitive Programming 
+
 #include <bits/stdc++.h>
 using namespace std;
 #define int               long long
@@ -16,7 +18,7 @@ using namespace std;
 #define reverall(x)       (x).begin(),(x).end(),greater<int>()
 
 void solve(){
-    cout<<"av";
+    
 }
 signed main(){
 ios_base::sync_with_stdio(false);
